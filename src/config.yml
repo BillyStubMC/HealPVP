@@ -1,0 +1,4 @@
+#Item replaced in your item slot when you soup ("BOWL" or "AIR")
+replace-item: BOWL
+#When you throw a potion to heal, what speed do you want it?
+throw-speed: 1.0

@@ -1,0 +1,13 @@
+name: HealPVP
+main: me.billy.healpvp.Main
+version: 1.0
+author: BillyStub
+description: An open-source SoupPVP/PotPVP healing plugin for Minecraft Servers
+website: https://github.com/BillyStubMC
+api-version: 1.8.8
+
+commands:
+  hp-reload:
+    description: Reloads the config
+    usage: /hp-reload
+    permission: healpvp.reload
